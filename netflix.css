@@ -183,17 +183,17 @@ ul li:hover ul.dropdown{
 }
 .collapsible {
     
-    background-color: #3d3d3d; /* Button color */
-    color: white; /* Text color */
-    cursor: pointer; /* Cursor on hover */
-    padding: 15px; /* Inner spacing */
-    width: 1200px; /* Full width */
-    border: none; /* Remove border */
-    text-align: left; /* Align text to the left */
-    outline: none; /* Remove outline */
-    font-size: 24px; /* Font size */
-    border-radius: 2px; /* Rounded corners */
-    margin-bottom: 5px; /* Space between buttons */
+    background-color: #3d3d3d; 
+    color: white;
+    cursor: pointer; 
+    padding: 15px; 
+    width: 1200px; 
+    border: none;
+    text-align: left; 
+    outline: none; 
+    font-size: 24px; 
+    border-radius: 2px; 
+    margin-bottom: 5px; 
 }
 .collapsible:hover{
     background-color: #4b4a4a;
@@ -202,13 +202,13 @@ ul li:hover ul.dropdown{
 .content {
     color: white;
     font-size: 22px;
-    padding: 0 15px; /* Inner spacing for content */
-    display: none; /* Hide content by default */
-    overflow: hidden; /* Hide overflow */
-    background-color: #3d3d3d; /* Content background */
-    border: 1px solid #000000; /* Border around content */
-    border-radius: 2px; /* Rounded corners */
-    margin-bottom: 10px; /* Space below content */
+    padding: 0 15px; 
+    display: none; 
+    overflow: hidden; 
+    background-color: #3d3d3d; 
+    border: 1px solid #000000; 
+    border-radius: 2px;
+    margin-bottom: 10px; 
     width: 92%;
     
 }
