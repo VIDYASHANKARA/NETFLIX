@@ -3,7 +3,7 @@ document.querySelectorAll('.collapsible').forEach(button => {
         
         document.querySelectorAll('.content').forEach(content => {
             if (content !== this.nextElementSibling) {
-                content.style.display = "none"; // Hide other content
+                content.style.display = "none";
             }
         });
 
